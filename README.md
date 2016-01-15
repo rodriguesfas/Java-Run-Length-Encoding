@@ -4,11 +4,11 @@ RLE - Algorítimo de compressão de dados - algorítimo de compressão de dados 
 # Funcionamento Detalhado:
 http://clubedosgeeks.com.br/programacao/java/java-run-length-encoding-rle-algoritimo-de-compressao-de-dados
 
-# Imagen bitmap
-![Nome imagem](https://github.com/rodriguesfas/Java-Run-Length-Encoding/blob/master/Java-Run-Length-Encoding/img/matriz1.png)
+# Imagem bitmap
+![Imagem bitmap](https://github.com/rodriguesfas/Java-Run-Length-Encoding/blob/master/Java-Run-Length-Encoding/img/matriz1.png)
 
 # Imagem representada por 0 e 1
-![Nome imagem](https://github.com/rodriguesfas/Java-Run-Length-Encoding/blob/master/Java-Run-Length-Encoding/img/matriz2.png)
+![Imagem representada por 0 e 1](https://github.com/rodriguesfas/Java-Run-Length-Encoding/blob/master/Java-Run-Length-Encoding/img/matriz2.png)
 
 #Fonte: 
 Livro ALGORITMOS E LOGICA DE PROGRAMAÇÃO
